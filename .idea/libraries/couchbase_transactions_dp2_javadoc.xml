@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="couchbase-transactions-dp2-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/couchbase-transactions-dp2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
